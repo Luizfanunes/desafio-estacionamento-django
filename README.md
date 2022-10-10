@@ -1,5 +1,5 @@
 ## Objetivo
-O teste é destinado para vaga de Desenvolvedor Back-end entendo como o candidato efetuou a solução e o raciocinio de criação
+O teste é destinado para vaga de Desenvolvedor Back-end, afim de entender como o candidato efetuou a solução e o raciocinio de criação
 
 ## Project - API
 Criar uma API REST para gerenciar um estacionamento de carros e motos.
@@ -7,7 +7,7 @@ Criar uma API REST para gerenciar um estacionamento de carros e motos.
 #### Stack tecnológica
 - Python
 - Django
-- Postgresql
+- PostgreSQL
 
 #### Cadastro de estabelecimento
 Criar um cadastro da empresa com os seguintes campos:
@@ -17,7 +17,7 @@ Criar um cadastro da empresa com os seguintes campos:
 - Telefone;
 - Quantidade de vagas para motos;
 - Quantidade de vagas para carros.
-- 
+
 **Todos** os campos são de preenchimento obrigatório.
 
 #### Cadastro de veículos
@@ -27,7 +27,7 @@ Criar um cadastro de veículos com os seguintes campos:
 - Cor;
 - Placa;
 - Tipo.
-- 
+
 **Todos** os campos são de preenchimento obrigatório.
 
 #### Funcionalidades
